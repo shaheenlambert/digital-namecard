@@ -7,7 +7,7 @@ ORG:Zisla;
 TITLE:President
 EMAIL;type=INTERNET;type=WORK;type=pref:slambert@zisla.com
 TEL;type=WORK;type=VOICE:+1 514 568 4660
-item1.ADR;type=WORK;type=pref:;;Blvd. Kukulkan KM 9 Piso 1\nOficina: 01\, Zona Hotelera;;;CP 77500;Cancun, Quintana Roo, Mexico
+item1.ADR;type=WORK;type=pref:;;Centro Internacional de Convenciones de Cancún\nBlvd. Kukulkan KM 9 Piso 1\nOficina: 01\, Zona Hotelera;;;CP 77500;Cancun, Quintana Roo, Mexico
 item1.X-ABADR:sg
 item2.URL;type=pref:zisla.com
 item2.X-ABLabel:_$!<HomePage>!$_
